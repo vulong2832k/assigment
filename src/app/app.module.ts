@@ -7,6 +7,7 @@ import { TrangchuComponent } from './trangchu/trangchu.component';
 import { LoginComponent } from './login/login.component';
 import { DangkyComponent } from './dangky/dangky.component';
 import { LienheComponent } from './lienhe/lienhe.component';
+import { RedangkyComponent } from './redangky/redangky.component';
 @NgModule({
   declarations: [
     AppComponent,
@@ -14,6 +15,7 @@ import { LienheComponent } from './lienhe/lienhe.component';
     LoginComponent,
     DangkyComponent,
     LienheComponent,
+    RedangkyComponent,
   ],
   imports: [
     BrowserModule,
